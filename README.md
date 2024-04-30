@@ -2,6 +2,7 @@
 
 ### Education
 * Bachelor of Automation and Computer Engineering, Novosibirsk State Technical University, Novosibirsk (2021)
+* Master of Automation and Computer Engineering, Novosibirsk State Technical University, Novosibirsk (2023)
 
 <!--
 **nikitazelenchuk/nikitazelenchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
